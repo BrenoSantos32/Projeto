@@ -1,0 +1,81 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 14/11/2018, 15:01:03
+    Author     : Aluno
+*/
+
+body {
+    margin: 0;
+    font-family:"Lato",Helvetica, Arial,sans-serif;
+}
+
+.w3-black{
+    background-color: #A52A2A !important;
+}
+
+.w3-bar-block{
+    background-color: #C0C0C0 !important;
+}
+
+.w3-container{
+    background-color: #A52A2A !important;
+}
+
+.w3-button{
+    background-color: #C0C0C0 !important;
+}
+
+#aaa{
+    background-color: #A52A2A !important; 
+}
+
+#title{
+    margin-left: 500px;
+}
+
+#former{
+    margin-left: 500px;
+    width:500px;
+}
+
+#enviar{
+    border-width: 1px;
+    border-color: black;
+    margin-left: 635px;
+    text-align: center;
+    padding-left:100px; 
+    padding-right:100px;
+    background-color: rgb(83,10,10);
+}
+
+.btn-primary{
+    margin-left: 700px;
+    background-color: rgb(83,10,10) !important;
+    padding-left:100px; 
+    padding-right:100px;
+}
+
+#pass {
+margin-left: 500px;
+    width:500px;
+}
+
+.olho {
+    width: 48px;
+    position: absolute;
+    left: 1011px;
+    top: 991px;
+}
+
+img{
+    
+}
+
+
+
+
+

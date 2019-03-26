@@ -1,0 +1,53 @@
+.w3-black{
+    background-color: rgb(83,10,10) !important;
+}
+
+.formulario{
+    margin-left: 20px;
+}
+
+.form-control{
+    width: 500px;
+}
+
+#formLogin{
+    padding-left: 500px;
+    padding-right: 500px;
+
+}
+
+.body {
+    font-family: "Lato", sans-serif;
+    width: 400px;
+    height: 300px;
+    background-image: url("wallpaperCaoCarinho.jpg");
+}
+
+#iptEmail{
+    border-width: 1px;
+    border-color: black;
+}
+
+#iptSenha{
+    border-width: 1px;
+    border-color: black;
+}
+
+#btnEntrar{
+    border-width: 1px;
+    border-color: black;
+    margin-left: 155px;
+    text-align: center;
+    padding-left:100px; 
+    padding-right:100px;
+    background-color: rgb(83,10,10);
+}
+
+.lblTexto{
+    width: 3px;
+    font-size: 18px;
+}
+
+#tituloLogin{
+    font-size: 19px;
+}
